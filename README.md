@@ -8,4 +8,6 @@ Converts NFDI4Health ArtDecor MDS 3.3 to ruby readable seedfile.
 
 ## Usage
 put MDS_V3_3.csv and Design.csv in the same folder as this script
-'resource = ["Project","Investigation","Study"]' List of which resources are to be created
+'''bash 
+resource = ["Project","Investigation","Study"]
+''' List of which resources are to be created
